@@ -4,7 +4,7 @@ EduTrack is a website built using PHP and MySQL, developed as part of a Software
 🔧 Key Features  
 the website includes the following features:  
 - User Management: Login pages for admin (loginadmin.php) and students (loginsiswa.php), along with an admin registration page (registeradmin.php).  
-- Data Management:View and edit data for admins (alldataadmin.php, editdataadmin.php) and alumni (alldataalumni.php).  
+- Data Management: View and edit data for admins (alldataadmin.php, editdataadmin.php) and alumni (alldataalumni.php).  
 - Announcements and Notifications: Create announcements (buat_pengumuman.php) and manage notifications (notifikasi.php).  
 - School Information: Display school-related information (informasisekolah.php) and admin info (informasiadmin.php).  
 - Statistics and Search: View statistics (statistikadmin.php) and perform data searches (search.php).  
